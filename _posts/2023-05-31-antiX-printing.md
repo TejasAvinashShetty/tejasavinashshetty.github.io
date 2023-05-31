@@ -60,9 +60,8 @@ we
 AntiX is not a systemd distro. So, systemctl won't work in it. So tutorials such as [Installing Printers in Linux | CUPS, Printing, and Scanning - YouTube : Chris Titus](https://www.youtube.com/watch?v=En2DJAMpwmY&pp=ygUcaHAgcHJpbnRlciBub3Qgd29ya2luZyBsaW51eA%3D%3D)
 won't work off the bat. We need to improvise. So we looked at [How to Fix "Systemctl Command Not Found" Error in Linux](https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/)
 There we got the idea of replacing systemctl with service.
-So we have `sudo service cups start` instead of `sudo systemctl enable cups
-
-sudo systemctl start cups`
+So we have `sudo service cups start` instead of `sudo systemctl enable cups`
+and `sudo systemctl start cups`
 
 ## Continuing further
 We have this page for CUPS
