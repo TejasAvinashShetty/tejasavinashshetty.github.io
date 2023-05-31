@@ -6,26 +6,26 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Tejas Shetty 
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  name: Dr Tejas Shetty 
+  avatar: Tejas-Shetty.jpg
+  bio: "PhD In Quantum Control IIT Bombay."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
+  twitter: avinash_tejas
+  linkedin: dr-tejas-avinash-shetty
+  github: tejasavinashshetty
+  orcid: 0000-0003-3528-2311 # (ex. 0000-0000-0000-0000)
+  researchgate: Tejas-Shetty
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 0NoOdkAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
-  stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
+  stackoverflow: 129388 #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
   lastfm: #username
   tumblr: #username
@@ -33,7 +33,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: tejasshetty4400 #username
   soundcloud: #username
   weibo: #username
   flickr: #username
@@ -47,7 +47,7 @@ lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
-  cc-by: #yes
+  cc-by: yes
   cc-by-nc: #yes
 
 #DO NOT EDIT BEYOND THIS POINT
