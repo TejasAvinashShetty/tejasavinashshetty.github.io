@@ -10,7 +10,7 @@ category: blog
 
 
 ---
-# Useful stuff AntiX Linux 
+
 
 
 [What is antiX and how to try it out or install it.](https://www.antixforum.com/forums/topic/what-is-antix-and-how-to-try-it-out-or-install-it/)
