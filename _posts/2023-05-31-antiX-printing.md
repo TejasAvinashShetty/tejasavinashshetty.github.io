@@ -46,13 +46,13 @@ we
 - check if we already have HPLIP via `dpkg -l hplip` *not there*
 - decided not to install HPLIP from [Get HPLIP](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip) as we have no idea of the COMPATIBILITY with our system or the distribution
 - decided to go with 
-```bash 
- sudo apt update
  
- sudo apt upgrade
+` sudo apt update`
+ 
+ `sudo apt upgrade`
    
- sudo apt install hplip hplip-gui
-   ``` 
+ `sudo apt install hplip hplip-gui`
+   
    as we felt it would be more compatible with our system
 
 
