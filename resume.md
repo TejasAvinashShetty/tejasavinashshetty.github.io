@@ -3,51 +3,60 @@ layout: resume
 menuorder: 3
 menutitle: Resume
 ---
-## Currently
 
-Current Position Description
+
+
+
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2012 - 2016`
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+__Institute of Chemical Technology Mumbai__
+
+B.Tech Pharmaceutical Sciences and Technology  
+
+`2016 - 2023`
+
+__IIT Bombay__
+
+PhD in Physics 
+
+
+
+## Publications
+
+A list is also available [online](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=-0NoOdkAAAAJ)
+
+### Journals
+
+`2023`
+[Design of NMR Pulses by Iterative Optimization of Phases](https://link.springer.com/article/10.1007/s00723-023-01528-9), Applied Magnetic Resonance
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ### Footer
+`1994`
+Article Title, Journal Title
+
+
+## Currently
+
+Current Position Description
 
 ## Awards
 
 `2012`
 Name of Award, Organization 
-
-## Publications
-
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
-
 
 ## Occupation
 
@@ -64,8 +73,18 @@ __Current Job Title__, Current Employer
 - Task
 
 
+## Presentations
 
-<!-- ### Footer
+`1994`
+Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+
+### Books
+
+`1994`
+Book Title, Journal Title
+
+`1994`
+Book Title, Journal Title
 
 Last updated: May 2013 -->
 
