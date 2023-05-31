@@ -8,7 +8,7 @@ comments: true
 category: blog
 
 ---
-# HP Printer meets AntiX Linux
+
 oK LET ME BE CLEAR. i REALLY DON'T HAVE ANY IDEA WHY ALL THESE STEPS WORK.
 They worked for me so here they are.
 
@@ -17,12 +17,14 @@ They worked for me so here they are.
 - [How to get HELP with an antiX PROBLEM](https://www.antixforum.com/forums/topic/how-to-get-help-with-an-antix-problem/)
 - [Unable to access CUPS or configure a printer on AntiX-19](https://www.antixforum.com/forums/topic/unable-to-access-cups-or-configure-a-printer-on-antix-19/)
 - [How to Fix "Systemctl Command Not Found" Error in Linux](https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/)
-- [Installing Printers in Linux | CUPS, Printing, and Scanning - YouTube : Chris Titus](https://www.youtube.com/watch?v=En2DJAMpwmY&pp=ygUcaHAgcHJpbnRlciBub3Qgd29ya2luZyBsaW51eA%3D%3D)
+- [Installing Printers in Linux CUPS, Printing, and Scanning - YouTube : Chris Titus](https://www.youtube.com/watch?v=En2DJAMpwmY&pp=ygUcaHAgcHJpbnRlciBub3Qgd29ya2luZyBsaW51eA%3D%3D)
 
 
+CUPS and HPLIP are what we are after here.
+CUPS Common Unix Printing Standard
 
-
-## Basic formatting
+## Getting CUPS
+Type in the terminal
 ```bash
 sudo apt-get update
 sudo apt-get install cups
@@ -40,13 +42,15 @@ http://localhost:631
 *It would probably be better to install HPLIP also while we are at it as no harm done.
 I don't think so the system made any use of it but I may be mistaken.*
 As in [Install HP Printer drivers in Ubuntu, Linux Mint, and elementary OS : FossLinux](https://www.fosslinux.com/1547/install-hp-printer-drivers-in-ubuntu-linux-mint-and-elementary-os.htm)
-We 
+we 
 - check if we already have HPLIP via `dpkg -l hplip` *not there*
 - decided not to install HPLIP from [Get HPLIP](https://developers.hp.com/hp-linux-imaging-and-printing/gethplip) as we have no idea of the COMPATIBILITY with our system or the distribution
 - decided to go with 
 ```bash 
    sudo apt update
+   
    sudo apt upgrade
+   
    sudo apt install hplip hplip-gui
    ``` 
    as we felt it would be more compatible with our system
@@ -56,7 +60,8 @@ We
 AntiX is not a systemd distro. So, systemctl won't work in it. So tutorials such as [Installing Printers in Linux | CUPS, Printing, and Scanning - YouTube : Chris Titus](https://www.youtube.com/watch?v=En2DJAMpwmY&pp=ygUcaHAgcHJpbnRlciBub3Qgd29ya2luZyBsaW51eA%3D%3D)
 won't work off the bat. We need to improvise. So we looked at [How to Fix "Systemctl Command Not Found" Error in Linux](https://allthings.how/how-to-fix-systemctl-command-not-found-error-in-linux/)
 There we got the idea of replacing systemctl with service.
-So we have `sudo service cups start` instead of `sudo systemctl enable cups 
+So we have `sudo service cups start` instead of `sudo systemctl enable cups
+
 sudo systemctl start cups`
 
 ## Continuing further
