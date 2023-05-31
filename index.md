@@ -5,12 +5,12 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dear citizen of the internet,
+Welcome to my space. I am a researcher in the field of Quantum Control and Quantum Computing. I have completed my PhD in physics from IIT Bombay. 
+My thesis topic is "Optimal control in quantum computing"
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Meta analysis of method in Quantum control like GRAPE, GOAT, CRAB, DCRAB, Krotov, etc
+- new methods that fill in the gaps 
+- a prescription for which method to use when (quantum control)
