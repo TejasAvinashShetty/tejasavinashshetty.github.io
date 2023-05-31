@@ -1,14 +1,13 @@
 ---
-toc: true
 layout: post
-description: Setting Dropbox in AntiX linux distribution.
-categories: [markdown, antix, dropbox]
 title: Dropbox meets AntiX Linux
+excerpt: Setting Dropbox in AntiX linux distribution.
+modified: 2/29/2016, 22:00:24
+tags: [markdown, antix, dropbox]
 comments: true
-hide: false
-search_exclude: false
+category: blog
 ---
-# Dropbox meets AntiX Linux
+
  
 oK LET ME BE CLEAR. i REALLY DON'T HAVE ANY IDEA WHY ALL THESE STEPS WORK.
 They worked for me so here they are.
