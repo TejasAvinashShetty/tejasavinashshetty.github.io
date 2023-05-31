@@ -1,12 +1,12 @@
 ---
-toc: true
 layout: post
-description: Setting up HP Printer in AntiX linux distribution.
-categories: [markdown]
 title: HP Printer meets AntiX Linux
+excerpt: Setting up HP Printer in AntiX linux distribution.
+modified: 2/29/2016, 22:00:24
+tags: [markdown, antix, printer, HP]
 comments: true
-hide: false
-search_exclude: false
+category: blog
+
 ---
 # HP Printer meets AntiX Linux
 oK LET ME BE CLEAR. i REALLY DON'T HAVE ANY IDEA WHY ALL THESE STEPS WORK.
