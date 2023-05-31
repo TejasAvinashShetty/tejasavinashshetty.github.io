@@ -1,12 +1,14 @@
 ---
-toc: true
 layout: post
-description: Setting Dropbox in AntiX linux distribution.
-categories: [markdown, antix,]
 title: Useful stuff AntiX Linux 
+excerpt: Usefull stuff 
+modified: 2/29/2023, 22:00:24
+tags: [markdown, antix,]
 comments: true
-hide: false
-search_exclude: false
+category: blog
+
+
+
 ---
 # Useful stuff AntiX Linux 
 
