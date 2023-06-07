@@ -10,7 +10,9 @@ category: blog
 ---
 
 oK LET ME BE CLEAR. i REALLY DON'T HAVE ANY IDEA WHY ALL THESE STEPS WORK.
-They worked for me so here they are.
+They worked for me so here they are. 
+
+Also, Don't be foolish. Ensure your printer's USB cable is pulgged in to the computer before doing this. Or else the HP printer option won't show up. Even if it does it will be something faulty which won't show up.
 
 ## Acknowledgements
 - [Install HP Printer drivers in Ubuntu, Linux Mint, and elementary OS : FossLinux](https://www.fosslinux.com/1547/install-hp-printer-drivers-in-ubuntu-linux-mint-and-elementary-os.htm)
@@ -77,6 +79,8 @@ We will get the following. Click on the **Add printer**
 This goes to what we see below. Select the printer as below. If it is not present try reconnecting the printer and praying to god.
 ![image](https://github.com/TejasAvinashShetty/silvercloud/assets/27445854/c452b75a-3972-4686-a2a7-7427f986a54a)
 Hopefully you are lucky and just follow the on screen instruction here on.
+
+*Just write late what option you have selected here, if you ever have to repeat it.*
 
 If at any time, you don't end up getiing a printout just  delete all the printers you have in CUPS and start over again.
 
