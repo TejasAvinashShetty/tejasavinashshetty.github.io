@@ -80,6 +80,11 @@ Add latest hosts file from [tejasjyotishetty github](https://github.com/tejasjyo
 
 ## Claws email setup
 
-## 
+## Sign in
+
+- Bitwarden
+- Firefox account
+- Dropbox
+- 
 
 For Comments please mail tejasshetty.1808@gmail.com
