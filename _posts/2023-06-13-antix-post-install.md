@@ -30,6 +30,8 @@ We have to install the following in this order
 
 ### From apt package manager
 
+`sudo apt install`
+
 - freecad
 - texlive-full
 - openmodelica (See [openmodelica.org](openmodelica.org))
