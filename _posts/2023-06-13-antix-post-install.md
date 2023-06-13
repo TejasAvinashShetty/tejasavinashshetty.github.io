@@ -11,6 +11,13 @@ category: blog
 
 ---
 
+## Initial checks
+
+As soon as you open the OS for the first time 
+
+- Check if the ethernet is working
+- `sudo apt update`
+- `sudo apt upgrade `
 
 
 
@@ -19,10 +26,20 @@ category: blog
 
 
 ## Stuff to install
-We have to isntall the following in this order
+We have to install the following in this order
 
 ### From apt package manager
 
+- freecad
+- texlive-full
+- openmodelica (See [openmodelica.org](openmodelica.org))
+- aspell
+- texstudio
+- texmaker
+- sublime text (see [sublimetext.com](sublimetext.com))
+- mythes-en-us 
+- evince
+- 
 
 ### From deb files
 
@@ -46,6 +63,8 @@ We have to isntall the following in this order
 
 - smtube
 - firefox-esr (after everything is done)
+- Dillo (lightweight web browser)
+- links2 (lightweight web browser)
 
 ### For Appu and Tejas
 
@@ -63,4 +82,4 @@ Add latest hosts file from [tejasjyotishetty github](https://github.com/tejasjyo
 
 ## 
 
-For Comments please mail
+For Comments please mail iittejas58@gmail.com
