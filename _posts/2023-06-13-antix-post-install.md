@@ -82,4 +82,4 @@ Add latest hosts file from [tejasjyotishetty github](https://github.com/tejasjyo
 
 ## 
 
-For Comments please mail iittejas58@gmail.com
+For Comments please mail tejasshetty.1808@gmail.com
