@@ -32,19 +32,4 @@ https://www.antixforum.com/forums/forum/general/other-languages/portuguese/
 []()
 
 
-## Stuff to install
-We have to isntall the following in this order
 
-- Bitwarden
-- [Dropbox](https://tejasavinashshetty.github.io/blog/antiX-dropbox/)
-- [HP printer software](https://tejasavinashshetty.github.io/blog/antiX-printing/)
-- Scanner DOES NOT WORK. Don't bother. We have wasted 3 days behind it.
-- Google chrome
-- [Maitreya astrology software from Saravalli](https://www.saravali.de/maitreya.html)
-
-
-## Other stuff
-`sudo geany /etc/hosts`
-
-Delete whatever is present and 
-Add latest hosts file from [tejasjyotishetty github](https://github.com/tejasjyothishetty/nixos-addblock-hosts)
