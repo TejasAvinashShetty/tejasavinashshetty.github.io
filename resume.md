@@ -33,8 +33,8 @@ A list is also available [online](https://scholar.google.com/citations?view_op=l
 `2023`
 [Design of NMR Pulses by Iterative Optimization of Phases](https://link.springer.com/article/10.1007/s00723-023-01528-9), Applied Magnetic Resonance
 
-
-
+`2023`
+[An improved algorithm for design of broadband excitation, inversion, and mixing pulse sequences by iterative optimization of phases: TOPS-2](https://doi.org/10.1016/j.jmr.2023.107501), Journal of Magnetic Resonance
 
 
 
